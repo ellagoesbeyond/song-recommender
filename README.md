@@ -1,2 +1,2 @@
 # song-recommender
-Project w/ of the spotify API
+Project w/ the spotify API to recommend the user a song based on similar audio features using unsupervised clustering.
